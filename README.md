@@ -12,4 +12,8 @@ The green circles give additional lives.
 
 
 ![alt text](https://github.com/flaciGit/avoidSquare/blob/master/img/avoidSquare.png?raw=true)
+
+
+Add a new suare with mouse left click:
+
 ![alt text](https://github.com/flaciGit/avoidSquare/blob/master/img/avoidSquare2.png?raw=true)
